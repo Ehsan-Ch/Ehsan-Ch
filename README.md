@@ -1,30 +1,35 @@
 # Ehsan Cheraghi
 
-**Machine Learning Engineer · Copenhagen, Denmark**
+**Machine Learning Engineer · Python Developer · Copenhagen, Denmark**
 
 I develop Python solutions for forecasting, data analysis and automation. My
 freelance experience spans maritime time-series modelling, engineering project
 data, Android-device automation and Arduino robotics.
 
-I am interested in Machine Learning and AI opportunities in Denmark, particularly
-forecasting, data preparation and applied predictive modelling.
+I am interested in machine learning, AI and Python opportunities in Denmark,
+including internships, with a focus on forecasting, data preparation and applied
+predictive modelling.
 
 ## Selected work
 
 | Project | Focus |
 | --- | --- |
+| [MALLORN TDE Classifier](https://github.com/Ehsan-Ch/mallorn-tde-classifier) | Rare-event classification with LightGBM/CatBoost, resumable experiments and prediction replay. Late Kaggle submission: private F1 **0.6648**; no official placement claimed. |
+| [Equity Direction Benchmark](https://github.com/Ehsan-Ch/equity-direction-benchmark) | Forward validation, probability calibration and baseline comparisons on real financial time series; no statistically reliable improvement established. |
+| [504 Words Voice Practice](https://github.com/Ehsan-Ch/504-words-voice-practice) | A portable voice-practice protocol and Python transcription tools with explicit progress checkpoints. |
 | [Aframax Monthly Forecasting](https://github.com/Ehsan-Ch/Aframax-Monthly) | Python and Keras LSTM forecasting for monthly shipping-related series. |
 | [Multi-Phone WiFi Control System](https://github.com/Ehsan-Ch/Multi-Phone-WiFi-Control-System) | Python, ADB and scrcpy for Android-device communication and automation. |
 | [Energy Demand Forecasting Demo](https://github.com/Ehsan-Ch/energy-demand-forecasting-demo) | An AI-assisted learning project using synthetic hourly data, Ridge regression, chronological evaluation and measured MAE/RMSE. |
-| [Acea Water Prediction](https://github.com/Ehsan-Ch/Acea-Water-Prediction) | Hydrological modelling portfolio snapshot; the README documents missing helpers and current limitations. |
+| [Acea Water Prediction](https://github.com/Ehsan-Ch/Acea-Water-Prediction) | Hydrological forecasting with past-only features, chronological evaluation and baseline comparisons; official-data performance remains unverified. |
 
-The energy-demand demo was created with OpenAI Codex assistance in September
-2026. Its data are synthetic and its evaluation scores are computed by the
-published code. It is separate from my earlier freelance client work.
+Recent portfolio projects document their AI assistance, data sources and
+validation limits in their repositories. The energy-demand demo uses synthetic
+data; its reported errors are computed by the code. These portfolio experiments
+are separate from my earlier freelance client work.
 
 ## Technical background
 
-- **ML and data:** Python, pandas, NumPy, scikit-learn, TensorFlow/Keras,
+- **ML and data:** Python, pandas, NumPy, scikit-learn, TensorFlow/Keras, LightGBM, CatBoost,
   time-series forecasting, data preprocessing and model evaluation.
 - **Project tools:** Microsoft Azure on Aframax; SQL on Abokhak.
 - **Software and automation:** Git, Linux/Ubuntu, C/C++, Arduino, ADB and scrcpy.
@@ -44,3 +49,4 @@ Bachelor's degree in Software Engineering, Azad University, Kermanshah, Iran.
 Completed September 2019.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/ehsan-cheraghi-a513ba263/)
+
