@@ -14,6 +14,7 @@ predictive modelling.
 
 | Project | Focus |
 | --- | --- |
+| [Bike Demand Forecasting](https://github.com/Ehsan-Ch/bike-demand-forecasting) | Real-data hourly forecasting, chronological model selection and uncertainty intervals. MAE **39.01** versus **62.70** for the weekly baseline; resumable stages and exact prediction replay. |
 | [MALLORN TDE Classifier](https://github.com/Ehsan-Ch/mallorn-tde-classifier) | Rare-event classification with LightGBM/CatBoost, resumable experiments and prediction replay. Late Kaggle submission: private F1 **0.6648**; no official placement claimed. |
 | [Equity Direction Benchmark](https://github.com/Ehsan-Ch/equity-direction-benchmark) | Forward validation, probability calibration and baseline comparisons on real financial time series; no statistically reliable improvement established. |
 | [504 Words Voice Practice](https://github.com/Ehsan-Ch/504-words-voice-practice) | A portable voice-practice protocol and Python transcription tools with explicit progress checkpoints. |
